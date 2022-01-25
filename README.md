@@ -2,8 +2,11 @@
 
  
 A simple TicTacToe game app built with Flutter.<br>
-[![Google Play](screenshots/download.svg)](https://play.google.com/store/apps/details?id=com.soumyadip.tictactoe)
-## Getting Started
+ 
+<p align="center">
+<a href="https://play.google.com/store/apps/details?id=com.soumyadip.tictactoe"><img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" width="50%"></a>
+</p>
+
 
 This project is a starting point for a Flutter application.
 
